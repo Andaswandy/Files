@@ -1,0 +1,6 @@
+<link rel="stylesheet" type="text/css" href="template/lottery/css/font-awesome.min.css?_=1661213697" media="screen">
+<link rel="stylesheet" type="text/css" href="template/lottery/css/style.css?v=1661213697" media="screen">
+<link rel="stylesheet" type="text/css" href="template/lottery/css/jquery-ui.css?_=1661213697" media="screen">
+<script type="text/javascript" src="js/jquery-1.10.2.min.js?_=1661213697"></script>
+<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js?_=1661213697"></script>
+<script type="text/javascript" src="js/jquery-ui.js?_=1661213697"></script>
